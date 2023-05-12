@@ -1,0 +1,8 @@
+.main{
+    background-image: url("https://www.gtsinc.us/wp-content/uploads/2019/07/Contact-Us-Background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 800px;
+    color: whitesmoke;
+}

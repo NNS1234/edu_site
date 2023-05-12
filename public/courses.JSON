@@ -1,0 +1,66 @@
+[
+    {
+        "key": "1",
+        "name": "GRE crash course",
+        "type": "Assesment Exam",
+        "about": "In this course we provide full prepration modules for the students who wants to get good score in the GRE exam but has small prepration time",
+        "img": "https://crispy-pics.s3.amazonaws.com/uploads/ckeditor/pictures/349/content_GRE_Model_.png",
+        "price": 7000
+    },
+    {
+        "key": "2",
+        "name": "IELTS crash course",
+        "type": "English Assesment Exam",
+        "about": "Prepare for the IELTS exam and speak English from your first lesson! Study online on an interactive platform. 100% English lessons. Fast preparation. Certified course. Get a high score. Native English teacher. Experienced teachers. Teacher fluent in English.",
+        "img": "https://i.ytimg.com/vi/C3XwcFQmQA4/maxresdefault.jpg",
+        "price": 4500
+    },
+    {
+        "key": "3",
+        "name": "TOEFL Expert",
+        "type": "English Assesment Exam",
+        "about": "Prepare for the TOEFL exam and speak English from your first lesson! Study online on an interactive platform. 100% English lessons. Fast preparation. Certified course. Get a high score. Native English teacher. Experienced teachers. Teacher fluent in English.",
+        "img": "https://exam-practice.com/wp-content/uploads/2019/11/toefl-logo-600x250.jpg",
+        "price": 6500
+    },
+    {
+        "key": "4",
+        "name": "SAT Deep Drive",
+        "type": "Assesment Exam",
+        "about": "The SAT offers free, high-quality practice including personalized study with Khan Academy, thousands of sample questions, and full-length practice tests.",
+        "img": "https://www.rjuhsd.us/cms/lib/CA01001478/Centricity/Domain/652/satpic.jpg",
+        "price": 15500
+    },
+    {
+        "key": "5",
+        "name": "GMAT Expert",
+        "type": " Assesment Exam",
+        "about": "The Graduate Management Admissions Test (GMAT) is a standardized computer adaptive test (CAT), required as part of the application process to many MBA programs around the world. The GMAT takes almost 4 hours to complete.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/GMAT_LOGO_POS_RGB.svg/1200px-GMAT_LOGO_POS_RGB.svg.png",
+        "price": 20500
+    },
+    {
+        "key": "6",
+        "name": "GRE Ultra Detail",
+        "type": " Assesment Exam",
+        "about": "The Top Online GRE Prep Course with Thousands of Extremely Satisfied Students. Prep w/ an Adaptive Learning Experience Created & Taught By Top 1% GRE Pros. Rated 5 Stars. Created by Harvard Grads. Ivy League Results. Affordable Price. 7 Point Guarantee.",
+        "img": "https://wp-media.petersons.com/blog/wp-content/uploads/2020/03/10122934/GRE_Thumbnail_FINAL.jpg",
+        "price": 16500
+    },
+    {
+        "key": "7",
+        "name": "MCAT prep",
+        "type": "Assesment Exam",
+        "about": "Altius is the only MCAT prep company to release independently researched 3rd party data. Stop wasting money on status quo MCAT prep. Altius guarantees a 90th percentile score. Free MCAT Practice Exam. Full Practice MCAT Tests. No-Interest Payment Plans.",
+        "img": "https://pbs.twimg.com/profile_images/877190251864883200/7RTFEvYM_400x400.jpg",
+        "price": 8500
+    },
+    {
+        "key": "8",
+        "name": "IELTS Mock Test",
+        "type": "English Assesment Exam",
+        "about": "Prepare for the IELTS exam and speak English from your first lesson! Study online on an interactive platform. 100% English lessons. Fast preparation. Certified course. Get a high score. Native English teacher. Experienced teachers. Teacher fluent in English.",
+        "img": "https://immigrationgates.com/wp-content/uploads/2020/01/ielts-2.jpg",
+        "price": 2500
+    }
+]
